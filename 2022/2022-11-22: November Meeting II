@@ -1,0 +1,152 @@
+01. Convene Meeting
+  The VGDC Board will vote to convene the Meeting
+
+  Attendance: Connor Horman, Tanzim Hossain, Nafiz Hasan
+  Explained Absence:
+  Unexplained Absence: Julia Sabelli, Yasir Saeed, Amitoz Brar
+
+  Non-board attendees: Jeremie Bornais
+
+  The presiding officer will address non-board attendees regarding meeting rules:
+  Non-board attendees are not permitted to vote and votes from them will not be counted, nor will objections raised by them count against unanimous consent
+  Non-board attendees shall refrain from speaking during a voting period, and from attempting to enter objections or motions
+  Non-board attendees may participate in discussion, raise informal objections to Board actions, or recommend the Board take some action the Board may take
+  This applies to discussion prior to any Substantive or Procedural Action
+  Non-board attendees are required to conduct themselves in a professional and appropriate manner, and refrain from speaking over others, including members of the Board, and shall refrain from use of excessive profanity. Non-board attendees may interrupt the speaker to get their attention.
+  The Board has the authority to remove any non-board attendee from the meeting at any time for any reason or for no reason
+
+  Meeting convened at 20:05
+
+02. Appoint Speaker
+  The Board will vote to appoint a speaker
+  Tanzim appointed as speaker.
+  
+03. Adopt Agenda
+  The Board will vote to adopt the agenda.
+  Agenda adopted
+  
+04. Approve Minutes
+  The Board will vote to approve the minutes from the 2022-11-06 meeting.
+  Minutes approved
+  
+05. New Board Regulations And Constitutional Amendments
+  The Board will vote on new Regulations:
+
+06. Non-Board Regulation Reports
+  The Members of the Board will report on any regulations they have made with respect to their positions since the November 6th meeting
+
+07. Events and Goals for Upcoming Primary Term
+  The Board will enter a discussion about events, projects, and goals during the Fall 2022 and Winter 2023 semesters. 
+
+  Game Project
+  Connor: Platformer using a rust game engine (possibly with scripting).
+  https://doc.rust-lang.org/book
+  Julia to Organize the Project and lead work on the Game
+  Connor to lead engine design
+  Repository: https://github.com/uwindsorvgdc/Game-Project 
+  Platformer: pixel art- 
+  Parkour platformer
+  Like Celeste
+  Few or no enemies, just platforming
+  Workshops at CSS Winter Game Jam
+  CSS going to run a Game Jam over Winter Break, games must feature the CSS Mascott "Chip the Cool Cat" few other requirements
+  Jeremie thinks it is a good idea for VGDC to hold workshops before and/or during.
+  Game Jam isn't necessarily related to VGDC's role - workshops don't need to be directly related to the Game Jam, just hosted around it.
+  Jeremie: Game Jam to possibly start on December 27th.
+  Jeremie: VGDC could hold multiple workshops, one maybe at the start at the December - before exams - then one after exams, and possibly one during the Game Jam.
+  Nafiz: During winter break, not many people may show up.
+  Tanzim: Winter Break would be online… in-person was not the move.
+  Connor: I recommend online - I think in-person wouldn't work well, especially if people are potentially online as well or online only. 
+  Tanzim: Do you have suggestions for making it more interactive
+  Connor: Well, they can ask questions
+  Jeremie: Audience could provide input as well as asking questions - presenter can also ask questions of the audience.
+  Connor: Doing hybrid over discord is not a really good option
+  Jeremie: Any reason for Discord over say Teams?
+  Connor: Well… This discord is where the VGDC conducts business, but I don't have any specific objections to Teams.
+  Tanzim: Any ideas for what was done
+  Nafiz: Has to be 2d, a platformer?
+  Tanzim: No to plaformer, Isn't our game project a platformer?
+  Connor: Yes
+  Tanzim: It should be simpler
+  Connor: Pong? That's about as simple as it can get
+  Tanzim: No to pong, we did that before as well.
+  Tanzim: Should we do before exams? What day does exams start.
+  Connor: I believe the last day of classes is the 8th. 
+  Tanzim: So maybe run the workshop on the 8th?
+
+11. Governance/Constitution Review
+  The Board will conduct an in-depth review of Board Regulations and the Constitution
+  Constitution:
+    General:
+      marked for removal:
+        2: can be moved into 1
+        5: unnecessary
+        7: unnecessary
+        9: unnecessary
+        8: typos
+    Executive:
+      marked for removal:
+        1.1.1: obvious
+        1.1.3: already covered in General
+        1.1.5: check UWSA policy
+        2.2: completely unnecessary
+        2.6: succession order defined elsewhere
+        1: use short name
+        3: remove summer part
+    Board:
+      Section 1:
+        1: short title
+        2: Head of Operations
+      Section 3:
+        2: first point time period can be condensed to just “the year”
+      Section 5:
+        revisiting member fee
+      Section 6:
+        strike “to maintain records…”
+        
+12. Open Discussion
+  The Board will enter an open discussion.
+  Misc. motions:
+    Motion to elect a new president.
+    Motion to elect a new vice-president.
+    Motion to approve the club's budget for the upcoming year.
+    Motion to discuss and vote on the club's plans for the upcoming year.
+    Motion to purchase new video game consoles for the club.
+    Motion to purchase new video games for the club.
+    Motion to elect a new treasurer.
+    Motion to approve the treasurer's report.
+    Motion to approve the club's financial statement.
+    Motion to approve the payment of bills.
+    Motion to purchase new equipment for the club.
+    Motion to donate old equipment to charity.
+    Motion to consider and vote on new member applications.
+    Motion to decide on meeting times and locations for the upcoming year.
+    Motion to remove a member from the club.
+    Motion to determine the club's activities for the upcoming year.
+    Motion to allow the president to sign cheques on behalf of the club.
+    Motion to prevent the president from signing cheques on behalf of the club.
+    Motion to disallow new members from joining the club.
+    Motion to communicate with other clubs.
+    Motion to form committees.
+    Motion to form a partnership with another club.
+    Motion to speak to Connor about the website.
+    Motion to seek sponsorship from a local business.
+    Motion to hold a fundraiser.
+    Motion to search for a new meeting place.
+    Motion to speak with Dr. Kobti regarding the club.
+    Motion to allow motions to be made from the floor.
+    Motion to not adorn the meeting place with video game memorabilia.
+    Motion to jump to item 19 on the agenda.
+    Motion to allow GPT-3-Generated motions to be considered at this meeting.
+    Motion to disband the club.
+    Motion to remove the conga line requirement from the club's bylaws.
+    Motion to disband congress.
+    Motion to secede from the union.
+    Motion to change the club's name to the "UWindsor Video Game Design Club (formerly the UWindsor Video Game Design Club)".
+    Motion to move the meeting to a different location.
+    Motion to search for Dr. Who's TARDIS.
+    Motion to search for who asked.
+    
+13. Adjourn Meeting
+  The Board will Adjourn the Meeting
+  Meeting adjourned at 21:23
